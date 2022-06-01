@@ -1,0 +1,12 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "Serverless calculator demo",
+  "main": "eval.js",
+  "dependencies": {
+    "expression-eval": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nimbella/sdk": "^1.2.7"
+  }
+}

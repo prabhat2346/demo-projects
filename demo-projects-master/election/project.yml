@@ -1,0 +1,17 @@
+bucket:
+  strip: 1
+
+packages:
+  - name: ge2020
+    actions:
+      - name: news
+      - name: timeseries
+      - name: counties
+      - name: exitpolls
+      - name: state_counties
+      - name: resources
+      - name: divisions
+      - name: elections
+      - name: reps
+      - name: voterinfo
+      - name: results

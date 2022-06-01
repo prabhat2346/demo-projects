@@ -1,0 +1,7 @@
+bucket:
+  strip: 1
+packages:
+  - name: tradedemo 
+    parameters:
+      apitoken: ${IEXCLOUD_API_TOKEN}
+
